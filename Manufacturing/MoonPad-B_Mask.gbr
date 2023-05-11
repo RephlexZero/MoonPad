@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,7.0.1*%
-%TF.CreationDate,2023-05-11T20:00:56+01:00*%
+%TF.CreationDate,2023-05-12T00:47:34+01:00*%
 %TF.ProjectId,MoonPad,4d6f6f6e-5061-4642-9e6b-696361645f70,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Bot*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.1) date 2023-05-11 20:00:56*
+G04 Created by KiCad (PCBNEW 7.0.1) date 2023-05-12 00:47:34*
 %MOMM*%
 %LPD*%
 G01*
@@ -56,10 +56,10 @@ X182880000Y-105410000D03*
 %TD*%
 D15*
 %TO.C,J1*%
-X195072000Y-89271000D03*
+X195072000Y-89906000D03*
 D16*
-X195072000Y-86731000D03*
-X195072000Y-84191000D03*
-X195072000Y-81651000D03*
+X195072000Y-87366000D03*
+X195072000Y-84826000D03*
+X195072000Y-82286000D03*
 %TD*%
 M02*
