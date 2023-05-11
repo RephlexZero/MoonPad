@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MoonPad")(type "KiCad")(uri "${KIPRJMOD}/MoonPad.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_RP2040")(type "KiCad")(uri "${KIPRJMOD}/MCU_RaspberryPi_RP2040.kicad_sym")(options "")(descr ""))
+  (lib (name "kicad-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/Libraries/kicad-keyboard-parts.pretty/Schematic Library/kicad-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "W25Q16JVUXIQ")(type "KiCad")(uri "${KIPRJMOD}/Libraries/W25Q16JVUXIQ/W25Q16JVUXIQ.kicad_sym")(options "")(descr ""))
+)

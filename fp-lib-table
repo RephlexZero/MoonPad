@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Moonpad")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Moonpad.pretty")(options "")(descr ""))
+  (lib (name "kicad-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/Libraries/kicad-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "Libraries")(type "KiCad")(uri "${KIPRJMOD}/Libraries")(options "")(descr ""))
+  (lib (name "W25Q16JVUXIQ")(type "KiCad")(uri "${KIPRJMOD}/Libraries/W25Q16JVUXIQ")(options "")(descr ""))
+)

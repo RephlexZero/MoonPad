@@ -1,0 +1,71 @@
+16665202923280
+Moonpad
+Crystal_SMD_HC49-US
+SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, 11.4x4.7mm^2 package
+SMD SMT crystal
+0
+2
+2
+Moonpad
+LED_SK6812MINI-B-012_3.7x3.5mm_P1.1mm
+https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+LED RGB NeoPixel Mini
+0
+4
+4
+Moonpad
+OLED 0.91
+
+
+0
+0
+0
+Moonpad
+RP2040-QFN-56
+QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+70
+57
+Moonpad
+SK6812MINI
+
+
+0
+4
+4
+Moonpad
+SK6812MINI_no_silk
+
+
+0
+4
+4
+Moonpad
+SON50P250X250X80-11N
+
+
+0
+11
+11
+Moonpad
+SON50P300X200X60-9N
+<b>USON 2x3x0.6-mm</b><br>
+
+0
+9
+9
+Moonpad
+SSD1306_OLED-0.91-128x32
+
+
+0
+14
+14
+Moonpad
+Wooting_1.00u
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+0
+0
