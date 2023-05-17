@@ -4,4 +4,5 @@
   (lib (name "kicad-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/Libraries/kicad-keyboard-parts.pretty")(options "")(descr ""))
   (lib (name "Libraries")(type "KiCad")(uri "${KIPRJMOD}/Libraries")(options "")(descr ""))
   (lib (name "W25Q16JVUXIQ")(type "KiCad")(uri "${KIPRJMOD}/Libraries/W25Q16JVUXIQ")(options "")(descr ""))
+  (lib (name "marbastlib")(type "KiCad")(uri "${KIPRJMOD}/Libraries/marbastlib")(options "")(descr ""))
 )
