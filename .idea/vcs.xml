@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Libraries/Keebio-Parts.pretty" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Libraries/kicad-keyboard-parts.pretty" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Libraries/marbastlib" vcs="Git" />
   </component>
 </project>
